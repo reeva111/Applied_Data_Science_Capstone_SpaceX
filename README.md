@@ -8,4 +8,4 @@ Whether a Falcon 9 booster lands successfully depends on factors like:
  How heavy the payload is
 Which version of the booster is being used
 Where the launch happens
-![image](https://github.com/user-attachments/assets/13418136-8033-4aa6-870d-24100e6b00b8)
+
