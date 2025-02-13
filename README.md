@@ -5,7 +5,11 @@ In today’s fast-paced and competitive space industry, SpaceX has completely ch
 
 Whether a Falcon 9 booster lands successfully depends on factors like:
 -The orbit it’s headed to
+
 -How heavy the payload is
+
 -Which version of the booster is being used
+
 -Where the launch happens
+
 
